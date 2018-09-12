@@ -1,3 +1,7 @@
+*.js
+package-lock.json
+*.d.ts
+
 # Logs
 logs
 *.log
